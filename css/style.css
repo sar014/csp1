@@ -1105,3 +1105,27 @@ footer {
 		max-width: 100%;
 	}
 }
+
+/* About Us Settings */
+#about {
+	background: indianred;
+}
+
+#about h2 {
+	color: #fff;
+	margin: 0 20px;
+}
+
+.about-text {
+	color: #fff;
+	/* text-align: left; Justify the text */
+}
+
+/* Media Query for Tablet and Desktop */
+@media only screen and (min-width: 481px) {
+    .about-text {
+        font-size: 1.2em; /* Adjust font size for larger screens */
+    }
+}
+
+
