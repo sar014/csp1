@@ -391,10 +391,13 @@ img:hover {
 /* Membership Settings */
 #projects {
 	background: indianred;
+	padding-top: 10px;
 }
 
 #projects h2 {
 	color: #fff;
+	padding-bottom: 15%;
+	padding-top: -20px;
 }
 
 /* Input Global Settings */
